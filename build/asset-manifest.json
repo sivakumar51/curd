@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whather_reports/static/css/main.8a48eb6e.css",
+    "main.js": "/whather_reports/static/js/main.36c2171d.js",
+    "static/js/453.91df4795.chunk.js": "/whather_reports/static/js/453.91df4795.chunk.js",
+    "index.html": "/whather_reports/index.html",
+    "main.8a48eb6e.css.map": "/whather_reports/static/css/main.8a48eb6e.css.map",
+    "main.36c2171d.js.map": "/whather_reports/static/js/main.36c2171d.js.map",
+    "453.91df4795.chunk.js.map": "/whather_reports/static/js/453.91df4795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a48eb6e.css",
+    "static/js/main.36c2171d.js"
+  ]
+}
