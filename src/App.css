@@ -48,11 +48,11 @@ h1 {
 }
 
 .todo-input::placeholder {
-  color: #ffffff4d;
+  color: #fff;
 }
 
 .todo-btn {
-  background: #10b065;
+  background: #0d6e47;
   color: #fff;
   border: none;
   padding: 0.55rem;
@@ -63,8 +63,8 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #7bad90;
-  color: #3e3c3c;
+  background: #0d6e47;
+  color: #fff;
   padding: 0.75rem 1rem;
   border-radius: 5px;
   margin-bottom: 1rem;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .completed {
-  color: #edebf2;
+  color: #fff;
   text-decoration: line-through;
   cursor: pointer;
 }
